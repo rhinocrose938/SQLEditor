@@ -1,0 +1,8 @@
+.query-item span{
+    font-size: 0.9rem;
+}
+
+.segmentsList:hover, .segmentsList.selected {
+    background: #eef2f4;
+    cursor: pointer;
+  }
